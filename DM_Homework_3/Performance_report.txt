@@ -1,0 +1,104 @@
+Parameters: k = 50, n = 1000, d = 50, sigma = 0.02
+Dataset generation time: 3.2042 seconds
+KMeans fitting time without PCA: 0.9155 seconds
+Accuracy : 100.0
+PCA time: 1.1025 seconds
+KMeans fitting time with PCA: 0.3481 seconds
+Accuracy : 100.0
+--------------------------------------------------------------------------------
+Parameters: k = 100, n = 1000, d = 100, sigma = 0.01
+Dataset generation time: 11.2361 seconds
+KMeans fitting time without PCA: 2.9901 seconds
+Accuracy : 100.0
+PCA time: 2.2858 seconds
+KMeans fitting time with PCA: 1.1510 seconds
+Accuracy : 100.0
+--------------------------------------------------------------------------------
+Parameters: k = 200, n = 1000, d = 200, sigma = 0.005
+Dataset generation time: 47.1159 seconds
+KMeans fitting time without PCA: 24.2381 seconds
+Accuracy : 100.0
+PCA time: 6.1797 seconds
+KMeans fitting time with PCA: 5.4195 seconds
+Accuracy : 100.0
+--------------------------------------------------------------------------------
+Parameters: k = 50, n = 1000, d = 50, sigma = 0.1414213562373095
+Dataset generation time: 3.2363 seconds
+KMeans fitting time without PCA: 1.5021 seconds
+Accuracy : 96.08
+PCA time: 1.1845 seconds
+KMeans fitting time with PCA: 0.5475 seconds
+Accuracy : 97.99
+--------------------------------------------------------------------------------
+Parameters: k = 100, n = 1000, d = 100, sigma = 0.1
+Dataset generation time: 12.9703 seconds
+KMeans fitting time without PCA: 4.7521 seconds
+Accuracy : 97.015
+PCA time: 2.3301 seconds
+KMeans fitting time with PCA: 1.8341 seconds
+Accuracy : 97.001
+--------------------------------------------------------------------------------
+Parameters: k = 200, n = 1000, d = 200, sigma = 0.07071067811865475
+Dataset generation time: 50.7005 seconds
+KMeans fitting time without PCA: 27.8713 seconds
+Accuracy : 97.136
+PCA time: 6.3644 seconds
+KMeans fitting time with PCA: 7.5780 seconds
+Accuracy : 97.2595
+--------------------------------------------------------------------------------
+Parameters: k = 50, n = 1000, d = 50, sigma = 0.5
+Dataset generation time: 2.5502 seconds
+KMeans fitting time without PCA: 2.6016 seconds
+Accuracy : 2.076
+PCA time: 0.8526 seconds
+KMeans fitting time with PCA: 1.4591 seconds
+Accuracy : 2.16
+--------------------------------------------------------------------------------
+Parameters: k = 100, n = 1000, d = 100, sigma = 0.5
+Dataset generation time: 10.7273 seconds
+KMeans fitting time without PCA: 14.2206 seconds
+Accuracy : 1.09
+PCA time: 2.6359 seconds
+KMeans fitting time with PCA: 7.0188 seconds
+Accuracy : 1.098
+--------------------------------------------------------------------------------
+Parameters: k = 200, n = 1000, d = 200, sigma = 0.5
+Dataset generation time: 43.4428 seconds
+KMeans fitting time without PCA: 82.9704 seconds
+Accuracy : 0.6145
+PCA time: 6.1355 seconds
+KMeans fitting time with PCA: 20.5048 seconds
+Accuracy : 0.622
+--------------------------------------------------------------------------------
+Parameters: k = 50, n = 10000, d = 50, sigma = 0.02
+Dataset generation time: 27.0466 seconds
+KMeans fitting time without PCA: 4.0943 seconds
+Accuracy : 100.0
+PCA time: 11.3248 seconds
+KMeans fitting time with PCA: 3.4736 seconds
+Accuracy : 100.0
+--------------------------------------------------------------------------------
+Parameters: k = 50, n = 100000, d = 50, sigma = 0.02
+Dataset generation time: 278.5945 seconds
+KMeans fitting time without PCA: 61.3101 seconds
+Accuracy : 100.0
+PCA time: 145.2408 seconds
+KMeans fitting time with PCA: 30.5624 seconds
+Accuracy : 100.0
+--------------------------------------------------------------------------------
+Parameters: k = 50, n = 1000, d = 5000, sigma = 0.02
+Dataset generation time: 224.1713 seconds
+KMeans fitting time without PCA: 26.1100 seconds
+Accuracy : 98.906
+PCA time: 18.6904 seconds
+KMeans fitting time with PCA: 0.3165 seconds
+Accuracy : 100.0
+--------------------------------------------------------------------------------
+Parameters: k = 200, n = 10000, d = 200, sigma = 0.5
+Dataset generation time: 537.9718 seconds
+KMeans fitting time without PCA: 1873.1042 seconds
+Accuracy : 0.51815
+PCA time: 122.9618 seconds
+KMeans fitting time with PCA: 284.8167 seconds
+Accuracy : 0.5154
+--------------------------------------------------------------------------------
